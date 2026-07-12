@@ -1,0 +1,4 @@
+Model,RMSE,MAE,R,DirAcc
+RandomForest,0.00214,0.00172,0.0,0.0
+XGBoost,0.00076,0.00074,0.0,0.0
+Hybrid,0.01353,0.01017,-0.2047,0.4867

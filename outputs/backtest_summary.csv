@@ -1,0 +1,4 @@
+ticker,total_return,cagr,sharpe_ratio,sortino_ratio,max_drawdown,calmar_ratio,win_rate,profit_factor,n_trading_days,final_value
+HDFCBANK.NS,-0.0625,-0.0328,-0.3732,-0.4357,-0.3023,-0.1084,0.5298,0.9681,488,942699.29
+INFY.NS,0.076,0.0385,0.022,0.0261,-0.3534,0.109,0.4969,1.0332,488,1073852.66
+RELIANCE.NS,-0.1157,-0.0615,-0.481,-0.6354,-0.2755,-0.2232,0.5092,0.9493,488,876994.96
